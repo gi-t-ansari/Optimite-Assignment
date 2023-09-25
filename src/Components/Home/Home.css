@@ -29,6 +29,7 @@
     box-shadow: 1px 1px 10px #1e293b;
     background-color: #fff;
     color: #000;
+    cursor: pointer;
 }
 
 .card-header {
